@@ -1,0 +1,5 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  dns.c
+D:\2_курс\сп\lab_1_dns_src\test\dns.c(56,22): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+D:\2_курс\сп\lab_1_dns_src\test\dns.c(177,18): warning C4047: !=: "DNSHandle" отличается по уровням косвенного обращения от "void *"
+  test.vcxproj -> D:\2_курс\сп\lab_1_dns_src\test\Debug\test.exe
